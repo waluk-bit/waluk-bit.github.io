@@ -1,0 +1,46 @@
+body{
+    background: #edeff2;
+    color: #fff;
+}
+
+.header{
+    background: #232532;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+.main__article{
+    background: #fff;
+    color: #000000;
+    padding: 20px;
+}
+
+aside{
+    background: #7aa54c;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.section__contenedor{
+    padding:0px ;
+}
+
+.section__caja{
+    margin: 0;
+    background: rgb(52, 94, 11);
+    padding: 40px;
+    text-align: center;
+}
+
+footer{
+    background: #232535;
+    padding: 20px;
+}
+
+.footer__row{
+    margin-bottom: 0px;
+}
